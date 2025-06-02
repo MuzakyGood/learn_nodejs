@@ -7,7 +7,7 @@ const requestListener = (request, response) => {
     response.end('<h1>Hello World HTTP Server!</h1>');
 
     /*
-        Tempat untuk mengatur url atau request dan method
+        Place to config url or request and method.
     */
 
 };
