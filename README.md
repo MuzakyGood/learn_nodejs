@@ -21,17 +21,17 @@ Before running this project, make sure you have the following installed:
 
 ## Learning Path
 
-1. [Basic Nodejs](https://github.com/MuzakyGood/learn_nodejs/Learn-Basic_NodeJS)
+1. [Basic Nodejs](https://github.com/MuzakyGood/learn_nodejs/tree/main/A.Learn-Basic_NodeJS)
 
-2. [Web Server With NodeJs](https://github.com/MuzakyGood/learn_nodejs/Learn-Basic-NodeJS_Web_Server)
+2. [Web Server With NodeJs](https://github.com/MuzakyGood/learn_nodejs/tree/main/B.Learn-Basic-NodeJS_Web_Server)
 
-3. [Using Hapi Framework](https://github.com/MuzakyGood/learn_nodejs/Learn-NojeJS_Hapi-Framework)
+3. [Using Hapi Framework](https://github.com/MuzakyGood/learn_nodejs/tree/main/C.Learn-NojeJS_Hapi-Framework)
 
 ---
 
 ### All Project
 
-1. [Notes App](https://github.com/MuzakyGood/learn_nodejs/PROJECT/Notes_App)
+1. [Notes App](https://github.com/MuzakyGood/learn_nodejs/tree/main/PROJECT/Notes_App)
 
 ## Simple Web Server with nodejs
 
