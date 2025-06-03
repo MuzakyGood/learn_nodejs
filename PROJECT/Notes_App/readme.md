@@ -42,7 +42,7 @@ http://localhost:8080
 
 ---
 
-### B. Setup Backend Website
+### B. Manual Setup Backend Website
 1. Install nodemon tools.
 
 ```bash
@@ -108,7 +108,7 @@ npm install @hapi/hapi
 8. Run backend website 
 
 ```bash
-npm run start
+npm run start:prod
 ```
 <details>
 <summary>9. Connect frontend website with backend REST API</summary>
@@ -123,3 +123,29 @@ npm run start
 </details>
 
 ---
+
+### C. Auto Setup Backend Website
+
+1. Install all packages.
+
+```bash
+npm install
+```
+
+2. Run backend website 
+
+```bash
+npm run start:prod
+```
+
+<details>
+<summary>3. Connect frontend website with backend REST API</summary>
+
+- <img src="./img_readme/2021030810464429e07f2c36082e9f83396e087587da00.png" alt="Change_Url_Button" width="400"/>
+
+- <img src="./img_readme/20210308104657da3785c63dc2ddcd9de3ec6a541b11bd.png" alt="Insert_URL" width="400"/>
+
+- <img src="https://assets.cdn.dicoding.com/original/academy/dos:ca99d5c4be09696e6418f5f7ea04547620231009205050.png" alt="If_Changed_URL" width="400"/>
+
+
+</details>
