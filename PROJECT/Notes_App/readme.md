@@ -53,7 +53,11 @@ npm install
 2. Run backend website 
 
 ```bash
+# if use virtual private server
 npm run start:prod
+
+# if use vscode
+npm run start:dev
 ```
 
 <details>
@@ -138,7 +142,11 @@ npm install @hapi/hapi
 8. Run backend website 
 
 ```bash
+# if use virtual private server
 npm run start:prod
+
+# if use vscode
+npm run start:dev
 ```
 <details>
 <summary>9. Connect frontend website with backend REST API</summary>
